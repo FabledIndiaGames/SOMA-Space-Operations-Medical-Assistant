@@ -7,3 +7,5 @@ Download LLM model before use, put it in /models folder: https://huggingface.co/
 Download STT model before use, put it in /stt-models folder: https://huggingface.co/ggerganov/whisper.cpp/blob/main/ggml-base.en-q8_0.bin
 Click Start.sh to run.
 Navigate to displayed url in terminal or go to http://127.0.0.1:11434 in any web browser.
+
+Youtube Demo: https://www.youtube.com/watch?v=GffKs_kmG94
