@@ -1,0 +1,114 @@
+load_backend: loaded CPU backend from /home/cyberpunk/Desktop/LAVAOffline/voice-assistant/servers/whisper/libggml-cpu-haswell.so
+whisper_init_from_file_with_params_no_state: loading model from 'stt-models/ggml-base.en-q8_0.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 1
+whisper_init_with_params_no_state: backends   = 1
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51864
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 512
+whisper_model_load: n_audio_head  = 8
+whisper_model_load: n_audio_layer = 6
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 512
+whisper_model_load: n_text_head   = 8
+whisper_model_load: n_text_layer  = 6
+whisper_model_load: n_mels        = 80
+whisper_model_load: ftype         = 7
+whisper_model_load: qntvr         = 2
+whisper_model_load: type          = 2 (base)
+whisper_model_load: adding 1607 extra tokens
+whisper_model_load: n_langs       = 99
+whisper_model_load:          CPU total size =    81.18 MB
+whisper_model_load: model size    =   81.18 MB
+whisper_backend_init_gpu: device 0: CPU (type: 0)
+whisper_backend_init_gpu: no GPU found
+whisper_init_state: kv self size  =    6.29 MB
+whisper_init_state: kv cross size =   18.87 MB
+whisper_init_state: kv pad  size  =    3.15 MB
+whisper_init_state: compute buffer (conv)   =   16.28 MB
+whisper_init_state: compute buffer (encode) =   23.09 MB
+whisper_init_state: compute buffer (cross)  =    4.66 MB
+whisper_init_state: compute buffer (decode) =   96.37 MB
+
+system_info: n_threads = 6 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | 
+
+operator(): processing 'mic.wav' (64536 samples, 4.0 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+system_info: n_threads = 6 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | 
+
+operator(): processing 'mic.wav' (59736 samples, 3.7 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+system_info: n_threads = 6 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | 
+
+operator(): processing 'mic.wav' (63896 samples, 4.0 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+system_info: n_threads = 6 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | 
+
+operator(): processing 'mic.wav' (60056 samples, 3.8 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+system_info: n_threads = 6 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | 
+
+operator(): processing 'mic.wav' (64216 samples, 4.0 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+system_info: n_threads = 6 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | 
+
+operator(): processing 'mic.wav' (60056 samples, 3.8 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+system_info: n_threads = 6 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | 
+
+operator(): processing 'mic.wav' (63896 samples, 4.0 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+system_info: n_threads = 6 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | 
+
+operator(): processing 'mic.wav' (59736 samples, 3.7 sec), 6 threads, 1 processors, lang = en, task = transcribe, timestamps = 1 ...
+
+
+whisper_print_timings:     load time =    82.29 ms
+whisper_print_timings:     fallbacks =   3 p /   0 h
+whisper_print_timings:      mel time =    70.38 ms
+whisper_print_timings:   sample time =    43.04 ms /     1 runs (    43.04 ms per run)
+whisper_print_timings:   encode time =  9638.67 ms /     8 runs (  1204.83 ms per run)
+whisper_print_timings:   decode time =   258.30 ms /    43 runs (     6.01 ms per run)
+whisper_print_timings:   batchd time =   105.56 ms /    22 runs (     4.80 ms per run)
+whisper_print_timings:   prompt time =     0.00 ms /     1 runs (     0.00 ms per run)
+whisper_print_timings:    total time = 633283.88 ms
+
+whisper server listening at http://127.0.0.1:11435
+
+Received request: mic.wav
+Successfully loaded mic.wav
+Running whisper.cpp inference on mic.wav
+Received request: mic.wav
+Successfully loaded mic.wav
+Running whisper.cpp inference on mic.wav
+Received request: mic.wav
+Successfully loaded mic.wav
+Running whisper.cpp inference on mic.wav
+Received request: mic.wav
+Successfully loaded mic.wav
+Running whisper.cpp inference on mic.wav
+Received request: mic.wav
+Successfully loaded mic.wav
+Running whisper.cpp inference on mic.wav
+Received request: mic.wav
+Successfully loaded mic.wav
+Running whisper.cpp inference on mic.wav
+Received request: mic.wav
+Successfully loaded mic.wav
+Running whisper.cpp inference on mic.wav
+Received request: mic.wav
+Successfully loaded mic.wav
+Running whisper.cpp inference on mic.wav
+
+Caught signal 15, shutting down gracefully...
