@@ -1,0 +1,4 @@
+Drop your LLM here, exact name from config.env:
+  models/Qwen3.5-4B.Q3_K_M.gguf
+Low-end i5-8th tip: this 4B works (~8-12 tok/s). If too slow, swap to a
+1.5B Q4_K_M and update MODEL_LLM in config.env. Keep ctx 2048.
