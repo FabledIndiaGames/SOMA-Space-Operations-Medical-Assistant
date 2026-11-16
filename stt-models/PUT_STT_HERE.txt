@@ -1,5 +1,0 @@
-Drop your STT model here, exact name from config.env:
-  stt-models/ggml-small.en-q5_1.bin
-(from https://huggingface.co/ggerganov/whisper.cpp , ~500MB, English-only,
-realtime on i5-8th. For max accuracy batch jobs use ggml-large-v3-turbo-q8_0.bin
-instead, but it is ~2-3x slower and NOT realtime on this CPU.)
