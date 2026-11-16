@@ -9,3 +9,7 @@ Click Start.sh to run.
 Navigate to displayed url in terminal or go to http://127.0.0.1:11434 in any web browser.
 
 Youtube Demo: https://www.youtube.com/watch?v=GffKs_kmG94
+
+
+
+Note: Fixing issues with large files 25mb not being accepted by github. 
