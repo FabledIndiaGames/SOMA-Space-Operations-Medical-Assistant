@@ -2,7 +2,7 @@
 
 SOMA (Space Operations Medical Assistant) is an offline, on-device voice assistant that enables astronauts to monitor and log health data in hands-free mode and visually during deep space missions without Earth communications. Built for the 2026 NASA International Space Apps Challenge.
 
-> Note: Fixing issues with large files 25mb not being accepted by github.
+> Note: Fixed issues with large files 25mb not being accepted by github, after submitting the project on time. 
 
 ## INSTRUCTIONS:
 
