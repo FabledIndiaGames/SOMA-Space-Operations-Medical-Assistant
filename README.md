@@ -4,5 +4,6 @@ SOMA (Space Operations Medical Assistant) is an offline, on-device voice assista
 INSTRUCTIONS:
 This Demo is not Linux only.
 Download LLM model before use, put it in /models folder: https://huggingface.co/unsloth/Qwen3.5-4B-GGUF/blob/main/Qwen3.5-4B-Q3_K_M.gguf
+Download STT model before use, put it in /stt-models folder: ggml-base.en-q8_0.bin
 Click Start.sh to run.
 Navigate to displayed url in terminal or go to http://127.0.0.1:11434 in any web browser.
